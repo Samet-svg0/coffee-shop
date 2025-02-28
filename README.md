@@ -12,5 +12,6 @@ Kafe Menüsü:
 Şık bir şekilde değiştirilebilen kafe menüleri, görselleri ve açıklamaları ile sunulur.
 
 # Ekran goruntusu
-![bandicam2025-02-1320-16-08-988-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bf20c7df-1c53-4d0a-8743-c9bba4b0a987)
+
+![bandicam2025-03-0100-15-05-346-ezgif com-crop (1)](https://github.com/user-attachments/assets/c235f344-67d9-4bab-b964-c080ba77539f)
 
